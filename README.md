@@ -222,3 +222,5 @@ After setup is completed once, setup endpoint is locked automatically.
 - `fault`
 - `communicationStatus`
 - `timestamp`
+
+
